@@ -1,8 +1,9 @@
 # The-Cloud-Controlled-Smart-Switch
 
-This is a group project from my engineering design lab. The Cloud-Controlled Smart Switch was designed to easily and conveniently enhance safety by reducing the risks associated with leaving home appliances on, such as potential fire hazards.
+This is a group project from my engineering design lab. The Cloud-Controlled Smart Switch was designed to enhance safety by reducing the risks associated with leaving home appliances on, such as potential fire hazards. It provides a simple and convenient way to remotely control and monitor appliances via a web interface.
 
 # How it works
+
 This repo contains the code for the website and the backend communication with an ESP32 that triggers a relay switching an appliance on or off. By entering the IP address of the ESP32 found over local network into a browser, users gain access to the website and can toggle the appliance on or off and view the power of their appliance.
 
 System Breakdown: 
