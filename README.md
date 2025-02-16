@@ -88,7 +88,3 @@ Unexpected Behavior:
 - Check power supply stability.
 - Inspect all connections for loose wires.
 
-# The Creators and Demo
-
-https://youtu.be/SOHArXEwPrQ?si=N9ZeGFoTOBPwjlLe
-
